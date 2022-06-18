@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ggfocus",
+    "oncran": true
+  },
+  {
+    "package": "mrf2d",
+    "oncran": true
+  }
+]
