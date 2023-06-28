@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ggfocus"]
 	path = ggfocus
 	url = https://github.com/freguglia/ggfocus
-	shallow = true
-	registered = true
 [submodule "mrf2d"]
 	path = mrf2d
 	url = https://github.com/freguglia/mrf2d
-	shallow = true
-	registered = true
